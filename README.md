@@ -20,12 +20,12 @@ I learn a lot from the open-source community and I love how collaboration and kn
 ### Talking about Personal Stuff:
   
 - 💼 For any Freelance work? do reach, [email](mailto:markvincentomega@gmail.com) :)
-- 🧑‍💻 I am currently learning Pure Data (Pd)
-- 🔊 I do a lot of field recordings on my spare time and produce my own sound using Ableton Live 11 (DAW)
-- 🌱 Learning Live Coding, Artificial Intelligence, and Acousmatic Music and Spatial Sound
+- 🧑‍💻 I am currently learning Pure Data (Pd).
+- 🔊 I do a lot of field recordings on my spare time and produce my own sound using Ableton Live 11 (DAW).
+- 🌱 Learning Live Coding, Artificial Intelligence, and Acousmatic Music and Spatial Sound.
 - 👾 Fun fact: Equal is Not Always Equal in Javascript.
-- 📰 Reading & writing tech blogs whenever I find a not so common solution to a problem that I personally faced.
-- 🎉 I am always open to new projects and ideas
+- 📰 Reading tech blogs and finding a not so common solution to a problem that I personally face.
+- 🎉 I am always open to new projects and ideas.
 - 💬 ask me about anything, i am happy to help;
 
 ### Languages and Tools:
