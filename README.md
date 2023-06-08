@@ -14,13 +14,21 @@
 Hi, i'm [Mark Omega](https://linktr.ee/markomega), a passionate full stack web developer, a freelance graphic dessigner, and sound artist from the Philippines. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I learn a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+
+<img align="right" width="375" alt="" src="https://media.giphy.com/media/QN6NnhbgfOpoI/giphy.gif" />
+
+### Talking about Personal Stuff:
   
 - 💼 For any Freelance work? do reach, [email](mailto:markvincentomega@gmail.com) :)
-- 🔊 I do a lot of field recordings on my spare time and produce my own sounds
+- 🧑‍💻 I am currently learning Pure Data (Pd)
+- 🔊 I do a lot of field recordings on my spare time and produce my own sound
+- 🌱 Learning all about Artificial Intelligence
+- 👾 Fun fact: Equal is Not Always Equal in Javascript.
+- 📰 Reading & writing tech blogs whenever I find a not so common solution to a problem that I personally faced.
 - 🎉 I am always open to new projects and ideas
 - 💬 ask me about anything, i am happy to help;
 
-**languages and tools:**  
+### Languages and Tools:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -41,13 +49,17 @@ JSON         4 mins          ░░░░░░░░░░░░░░░░░
 
 If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-🚧 **my todo list stats:**
-<!-- TODO-IST:START -->
-🏆  699 Karma Points           
-🌸  Completed 1 tasks today           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
-
-
-
+<details>	
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> MacOS Big Sur</li>
+	    <li><b>Laptop: </b> MacBook Pro (13-inch, M1, 2020)</li>
+            <li><b>Mouse: </b>Logitech MX master 3</li>
+	    <li><b>Keyboard: </b>Logitech K380</li>
+  	    <li><b>Browser: </b> Firefox Web Browser</li>
+	    <li><b>Terminal: </b> ZSH: Oh My Zsh (Power user)</li>
+	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
+	    <li><b>To Stay Updated:</b> Daily.dev, Dev.to, Medium, Linkedin and Twitter.</li>
+	</ul>	
+</details>
