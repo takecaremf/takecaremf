@@ -49,6 +49,8 @@ Bash         5 mins          ▒░░░░░░░░░░░░░░░░
 
 If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
+<img style="margin-top: 27px; margin-left: 25px; margin-bottom: 12px" align="right" alt="profile-gif" src="https://raw.githubusercontent.com/SmithyVL/SmithyVL/master/assets/profile.gif" />
+
 <details>	
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
