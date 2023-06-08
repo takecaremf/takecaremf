@@ -15,7 +15,7 @@ Hi, i'm [Mark Omega](https://linktr.ee/markomega), a passionate full stack web d
 
 I learn a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-<img align="right" width="375" alt="" src="https://media.giphy.com/media/QN6NnhbgfOpoI/giphy.gif" />
+<img style="margin-top: 27px; margin-left: 25px; margin-bottom: 12px" align="right" alt="profile-gif" src="https://raw.githubusercontent.com/SmithyVL/SmithyVL/master/assets/profile.gif" />
 
 ### Talking about Personal Stuff:
   
@@ -48,8 +48,6 @@ Bash         5 mins          ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<img style="margin-top: 27px; margin-left: 25px; margin-bottom: 12px" align="right" alt="profile-gif" src="https://raw.githubusercontent.com/SmithyVL/SmithyVL/master/assets/profile.gif" />
 
 <details>	
   <br />
