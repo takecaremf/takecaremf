@@ -43,7 +43,6 @@ I learn a lot from the open-source community and I love how collaboration and kn
 ```txt
 JavaScript   1 hr 4 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 %
 Bash         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-JSON         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
 <!--END_SECTION:waka-->
