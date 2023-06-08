@@ -48,8 +48,6 @@ Bash         5 mins          ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
 <details>	
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
@@ -62,3 +60,5 @@ If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
 	</ul>	
 </details>
+
+If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
