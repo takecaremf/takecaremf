@@ -1,4 +1,4 @@
-<h1 align="center"> Welcome to my Github 👋, I am Mark Omega </h1>
+<h1 align="center"> Welcome to my Github <img alt="Hi!" src="https://raw.githubusercontent.com/SmithyVL/SmithyVL/master/assets/hand.gif" width="25px">, I am Mark Omega </h1>
 
 <a href="https://www.instagram.com/takecaremyfren/">
   <img align="left" alt="Omega's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
