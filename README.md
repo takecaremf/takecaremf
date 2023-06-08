@@ -7,8 +7,6 @@
   <img align="left" alt="Omega's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
 <br />
 
 Hi, i'm [Mark Omega](https://linktr.ee/markomega), a passionate full stack web developer, a freelance graphic designer, and sound artist from the Philippines. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
