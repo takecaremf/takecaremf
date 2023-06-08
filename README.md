@@ -53,13 +53,11 @@ If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> MacOS Big Sur</li>
-	    <li><b>Laptop: </b> MacBook Pro (13-inch, M1, 2020)</li>
+  	    <li><b>OS:</b> Windows 10 Pro </li>
+	    <li><b>Desktop: </b> AMD Ryzen 5 5600G with Radeon Graphics 3.90 GHz</li>
             <li><b>Mouse: </b>Logitech MX master 3</li>
-	    <li><b>Keyboard: </b>Logitech K380</li>
-  	    <li><b>Browser: </b> Firefox Web Browser</li>
-	    <li><b>Terminal: </b> ZSH: Oh My Zsh (Power user)</li>
+	    <li><b>Keyboard: </b>Logitech G710</li>
+  	    <li><b>Browser: </b> Opera Gx / Google Crome </li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
-	    <li><b>To Stay Updated:</b> Daily.dev, Dev.to, Medium, Linkedin and Twitter.</li>
 	</ul>	
 </details>
