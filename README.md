@@ -43,10 +43,10 @@ JSON         4 mins          ░░░░░░░░░░░░░░░░░
 
 If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-🚧 **my todoist stats:**
+🚧 **my todo list stats:**
 <!-- TODO-IST:START -->
 🏆  699 Karma Points           
-🌸  Completed 0 tasks today           
+🌸  Completed 1 tasks today           
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
 
