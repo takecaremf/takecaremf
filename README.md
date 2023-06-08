@@ -1,7 +1,5 @@
 <h1 align="center"> Welcome to my Github 👋, I am Mark Omega </h1>
 
-<h3 align="center">You can cssionate Licensed Electronics Engineer from the Philippines and currently venturing through the world of Full Stack Development</h3>
-
 <a href="https://www.instagram.com/takecaremyfren/">
   <img align="left" alt="Omega's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
