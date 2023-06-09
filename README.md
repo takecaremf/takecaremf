@@ -26,7 +26,6 @@ I learn a lot from the open-source community and I love how collaboration and kn
 - 👾 Fun fact: Equal is Not Always Equal in Javascript.
 - 📰 Reading tech blogs and finding a not so common solution to a problem that I personally face.
 - 🎉 I am always open to new projects and ideas.
-- 🤡 I enjoy a good laugh and this british sitcom "The IT Crowd" does take the edge off.
 - 💬 ask me about anything, i am happy to help;
 
 ### Languages and Tools:
