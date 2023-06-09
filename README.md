@@ -11,7 +11,7 @@
 
 ### Glad to see you here!
 
-Hi, i'm [Mark Omega](https://linktr.ee/markomega), progressing to be a full stack web developer, a freelance graphic designer, and sound artist from the Philippines. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, i'm [Mark Omega](https://linktr.ee/markomega), progressing to be a full-stack web developer, a freelance graphic designer, and sound artist from the Philippines. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I learn a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source.
 
