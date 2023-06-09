@@ -38,16 +38,6 @@ I learn a lot from the open-source community and I love how collaboration and kn
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```txt
-JavaScript   1 hr 4 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 %
-Bash         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-```
-
-<!--END_SECTION:waka-->
-
 <details>	
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
