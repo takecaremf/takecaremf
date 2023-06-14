@@ -52,5 +52,3 @@ I learn a lot from the open-source community and I love how collaboration and kn
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
 	</ul>	
 </details>
-
-If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
