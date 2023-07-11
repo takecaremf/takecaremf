@@ -4,7 +4,7 @@
   <img align="left" alt="Omega's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://discord.com/channels/@849673758457200661">
-  <img align="left" alt="Omega's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Omega's Discord" width="22px" src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg](https://static.vecteezy.com/system/resources/previews/018/930/718/non_2x/discord-logo-discord-icon-transparent-free-png.png)" />
 </a>
 
 <br />
