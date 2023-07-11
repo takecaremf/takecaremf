@@ -3,7 +3,7 @@
 <a href="https://www.instagram.com/takecaremyfren/">
   <img align="left" alt="Omega's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://discordapp.com/users/849673758457200661)](https://discordapp.com/users/849673758457200661">
+<a href="[https://discordapp.com/users/849673758457200661)](https://discordapp.com/users/849673758457200661](https://static.vecteezy.com/system/resources/previews/006/892/625/non_2x/discord-logo-icon-editorial-free-vector.jpg)">
   <img align="left" alt="Omega's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
