@@ -20,7 +20,6 @@ I learn a lot from the open-source community and I love how collaboration and kn
 - 🧑‍💻 I am currently learning Pure Data (Pd).
 - 🔊 I do a lot of field recordings on my spare time and produce my own sound using Ableton Live 11 (DAW).
 - 🌱 Learning Live Coding, Artificial Intelligence, and Acousmatic Music and Spatial Sound.
-- 👾 Fun fact: Equal is Not Always Equal in Javascript.
 - 📰 Reading tech blogs and finding a not so common solution to a problem that I personally face.
 - 🎉 I am always open to new projects and ideas.
 - 💬 ask me about anything, i am happy to help;
